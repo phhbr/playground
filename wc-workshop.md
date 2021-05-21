@@ -33,4 +33,4 @@ Web components are based on existing web standards. Features to support web comp
 
 ## References
 
-[^1]: [https://www.webcomponents.org/introduction]
+[^1]: https://www.webcomponents.org/introduction
